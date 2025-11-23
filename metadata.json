@@ -1,0 +1,7 @@
+{
+  "name": "Al-Manara Learning",
+  "description": "An interactive Arabic educational platform for students featuring gamified lessons, AI-assisted writing feedback, and progress tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
